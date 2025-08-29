@@ -27,3 +27,6 @@ Trial Chambers
 Trail Ruins
 Swamp Hut
 Jungle Pyramid
+
+
+Last releases https://github.com/dungeonerr/noMoreStructures/releases
